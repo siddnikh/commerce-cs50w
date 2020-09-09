@@ -6,3 +6,5 @@ Made on top of Django. I am sorry if the code seems spaghetti, but try reading i
 I hope this helps for references if you are stuck somewhere :)
 
 In case you are interested in the problem and think you can solve it in a better manner (which is very much possible), check it out here: https://cs50.harvard.edu/web/2020/projects/2/commerce/
+
+Here's a preview: https://youtu.be/Um-fgIChNoc
